@@ -1,4 +1,12 @@
 <item>
+<title>REDE CANAIS</title>
+<link>ignorme</link>
+<externallink>https://gelsonkodi.blogspot.com/2020/01/tv.html</externallink>
+<page></page>
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+</item>
+
+<item>
 <title>[COLOR lime][B]LISTA:1[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
